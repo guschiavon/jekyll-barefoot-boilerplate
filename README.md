@@ -2,7 +2,7 @@
 A basic Jekyll Boilerplate structure perfect to use with CloudCannon CMS
 
 ## Dependencies
-
+Jekyll 4.0.0
 
 
 ### Editing CSS Custom Variables
